@@ -5,6 +5,11 @@
 * https://saljarnas.se/anstallningtrygghet/saljaravtalet/
 * https://saljarnas.se/app/uploads/2022/04/Egenansta%CC%88llningsavtalet.pdf
 
+## Elektroskandiaavtalet
+
+* https://www.sef.se/arbetsgivare/kollektivavtal/elektrikernas-kollektivavtal/
+* https://www.sef.se/siteassets/medlem/kollektivavtal/vara-avtal/elektroskandiaavtalet-2021-2023.pdf
+
 ## Fastighetsavtalet
 
 * https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/fastigheter/aktuella-avtal/
